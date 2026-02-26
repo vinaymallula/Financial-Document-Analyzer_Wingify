@@ -54,11 +54,11 @@ Configured environment variable loading using dotenv and ensured OPENAI_API_KEY 
 
 # Tech Stack
 
-Backend: FastAPI
-AI Orchestration: CrewAI
-LLM Provider: OpenAI via LiteLLM
-PDF Processing: PyPDF
-Programming Language: Python 3.10+
+Backend: FastAPI.
+AI Orchestration: CrewAI.
+LLM Provider: OpenAI via LiteLLM.
+PDF Processing: PyPDF.
+Programming Language: Python 3.10+.
 
 # Setup Instructions
 
